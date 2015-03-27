@@ -1,0 +1,6 @@
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\classes\debug
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a3f40d6f924e463c635546b1d30f3d0d7efe6fa3.jar
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b29e85bb7f74c06ab82b283fab0e849940d359ca.jar
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\dropbox-sync-sdk-android-b1c90e2c39f210c85fae1943e1929ad55a14e330.jar
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\classes-40716213f3fc3263e45f7799a3ac36abc0f65ab6.jar
+C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\classes-1b8621b6a239cea0430bbb525a7a7863db95623f.jar

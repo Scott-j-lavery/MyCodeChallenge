@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\classes-40716213f3fc3263e45f7799a3ac36abc0f65ab6.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\support-annotations-21.0.3-a3f40d6f924e463c635546b1d30f3d0d7efe6fa3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\libs\internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\internal_impl-21.0.3-b29e85bb7f74c06ab82b283fab0e849940d359ca.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\libs\dropbox-sync-sdk-android.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="45fb26781bc311772660c697996801f8f39d3ce0">
+        <dex dex="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\dropbox-sync-sdk-android-b1c90e2c39f210c85fae1943e1929ad55a14e330.jar" />
+    </item>
+    <item
+        jar="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\classes.jar"
+        jumboMode="false"
+        revision="21.1.1"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="C:\Users\Scott\AndroidStudioProjects\MyCodeChallenge\app\build\intermediates\pre-dexed\debug\classes-1b8621b6a239cea0430bbb525a7a7863db95623f.jar" />
+    </item>
+
+</items>
